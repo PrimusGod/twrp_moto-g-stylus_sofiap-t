@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_sofiap.mk
+    $(LOCAL_DIR)/twrp_sofiap.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_sofiap-user \
-    omni_sofiap-userdebug \
-    omni_sofiap-eng
+    twrp_sofiap-user \
+    twrp_sofiap-userdebug \
+    twrp_sofiap-eng
